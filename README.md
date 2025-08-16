@@ -1,135 +1,321 @@
-# 👋 Hi there, Arafat Mahmud (@arafat-mahmud)
-
-Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learner with a diverse skill set across software engineering, machine learning, and intelligent systems.  
-
----
-
-## 🧠 About Me
-- 🎓 Lecturer at University of Global Village | AI & Security Researcher | Ex-Software Engineer  
-- 🛠 Languages: Python, Golang, Java, JavaScript(TS, React, Node), C, C++, PHP, MATLAB, Bash
-- 📝 Peer reviewer for journals under Elsevier 
-- 🤖 Areas of Interest:  
-  - Machine Learning, Deep Learning, Generative Models  
-  - Image & Audio-Signal Processing  
-  - Natural Language Processing (NLP)  
-  - Fuzzy Logic & Decision Systems  
-  - Cybersecurity Behavior Prediction (MITRE ATT&CK Framework)  
-  - Automation Tools: n8n, Retool  
-- 🔭 Currently exploring:  
-  - **Generative Image Processing in Medical Imaging** using **Visual Autoregressive (VAR)** models  
-  - **Accent-aware ASR & TTS** for Bengali dialects  
-  - **Clinical Deep Learning** with **XAI + Transformers**  
-  - **Smart Contract Auditing & ML Security**
-
----
-
-## 🧑‍🏫 Professional Activities
-
-- 🎓 **Masters Supervisor**:
-  - 🔬 CVD Multimodal Diagnostic Model (ECG, EHR, SNP)
- 
-- 🎓 **Thesis Supervisor** for 4 undergraduate research groups:
-  - 🛡 MITRE ATT&CK-based Threat Detection in Medical Sector
-  - 🫀 Cardiovascular Disease (CVD) Prediction using XAI
-  - 🧬 CKD Prediction using Explainable Machine Learning
-  - 🧠 Heart & Lung Disease Prediction from SNP Data
-  - 🔬 CVD Multimodal Diagnostic Model (ECG, EHR, SNP)
-
-- 🏆 **Coach** of the UGV Programming Team for **DUET IUPC**
-
-- 🧑‍⚖️ Member of:
-  - 📚 **Course & Content Review Committee**, UGV
-  - 🔬 **Research Wing**, University of Global Village
-
-- 📝 **Peer Reviewer** for Elsevier Journals
-
-
----
-
-## 📂 Featured Projects & Research
-| Project / Area | Description |
-|----------------|-------------|
-| 🧠 **Tumor Growth Prediction** | Hybrid fuzzy-PBPK modeling to support clinical oncology decisions |
-| 🧬 **Clinical Deep Learning** | XAI-based disease prediction using Transformer-based architectures |
-| 🎨 **Generative Medical Imaging** | Visual Autoregressive (VAR) models to synthesize diagnostic-quality scans |
-| 🔊 **Bengali ASR & TTS** | Accent-aware Bengali speech tech for Barishal dialect |
-| 🧾 **Smart Contract Auditor** | Auditing tools and ML security models for blockchain apps |
-| 🛡 **MITRE ATT&CK Prediction** | Behavior modeling and threat prediction based on the ATT&CK framework |
-| 🚗 **Vehicle Tracking App** | IoT + Firebase-based real-time GPS tracking system |
-
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🧠 AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Huggingface-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📊 Tools & Frameworks
-![n8n](https://img.shields.io/badge/n8n-%23EF4D4D?style=for-the-badge&logo=n8n&logoColor=white)
-![Retool](https://img.shields.io/badge/Retool-%23000?style=for-the-badge&logo=retool&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/ESP8266-NodeMCU-%23009688?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🔐 Blockchain & Security
-![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contract-Auditing-%2342b883?style=for-the-badge)
-
-### 🛠 Dev Tools
-![Cursor](https://img.shields.io/badge/Cursor-%23000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) <!-- Placeholder icon -->
-![Windsurf](https://img.shields.io/badge/Windsurf-AI%20IDE-%2300C4B4?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
+<div align="center">
+  
+# 👋 Welcome to Arafat Mahmud's U---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-mahmud&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-mahmud&layout=compact&theme=radical" alt="Top Languages" />
+  
+## 🏆 Professional Excellence
+
+</div>! 
+
+<img src="https://readme-typin<details open>
+<summary><b>🚀 Programming Languages</b></summary>
+<br<details>
+<summary><b>🔧 Development Environment</b></summary>
+<br>.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%26+Software+Engineer;Machine+Learning+%26+Security+Expert;Lecturer+%26+Research+Supervisor;Building+the+Future+with+Code" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2ea44f?style=for-the-badge)](https://arafat-mahmud.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arafat2001)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafat.mahmud.2001@gmail.com)
+[![CV](https://img.shields.io/badge/📄_Download-CV-success?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1qMZ5GgF5g6sgyjN0yahN0Px8BTtgQpcQ)
+
 </div>
 
 ---
 
-## 🏃‍♂️ Contribution Streak
+<div align="center">
+  
+## 🚀 About Me
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Current Role**
+🎓 **Lecturer** at University of Global Village  
+🔬 **AI & Security Researcher**  
+💼 **Ex-Software Engineer**  
+📝 **Peer Reviewer** for Elsevier Journals  
+
+### 💡 **What Drives Me**
+> *"Bridging the gap between cutting-edge AI research and real-world applications"*
+
+</td>
+<td width="50%">
+
+### 🔬 **Research Focus**
+- 🧠 **Machine Learning & Deep Learning**
+- 🏥 **Medical AI & Clinical Decision Support**
+- 🔊 **Speech Processing & NLP**
+- 🛡️ **Cybersecurity & Threat Prediction**
+- 🔗 **Blockchain Security & Smart Contracts**
+
+### 🎯 **Current Explorations**
+- **Generative Medical Imaging** with VAR models
+- **Bengali ASR & TTS** for dialect processing
+- **Clinical XAI** with Transformers
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-mahmud&theme=radical" alt="GitHub Streak" />
+  
+## � Professional Excellence
+
+</div>
+
+<details>
+<summary><b>🎓 Academic Leadership & Supervision</b></summary>
+
+### **Masters Supervision**
+- 🔬 **CVD Multimodal Diagnostic Model** (ECG, EHR, SNP)
+
+### **Undergraduate Research Groups** (4 Active Teams)
+| Research Area | Focus |
+|---------------|-------|
+| 🛡️ **Medical Cybersecurity** | MITRE ATT&CK-based Threat Detection |
+| 🫀 **Cardiovascular AI** | CVD Prediction using XAI |
+| 🧬 **Renal Health** | CKD Prediction with Explainable ML |
+| 🧠 **Genetic Diagnostics** | Heart & Lung Disease from SNP Data |
+
+### **Leadership Roles**
+- 🏆 **Coach** - UGV Programming Team (DUET IUPC)
+- 📚 **Member** - Course & Content Review Committee, UGV
+- 🔬 **Member** - Research Wing, University of Global Village
+
+</details>
+
+---
+
+<div align="center">
+  
+## 🎨 Showcase: Featured Projects & Research
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🧠 **AI in Healthcare**
+**Tumor Growth Prediction**  
+*Hybrid fuzzy-PBPK modeling*
+- Clinical oncology decision support
+- Advanced mathematical modeling
+- Real-world medical applications
+
+**Generative Medical Imaging**  
+*Visual Autoregressive (VAR) models*
+- Diagnostic-quality scan synthesis
+- Next-gen medical AI
+
+</td>
+<td width="33%">
+
+### 🔊 **Speech Technology**
+**Bengali ASR & TTS**  
+*Accent-aware processing*
+- Barishal dialect specialization
+- Cultural AI preservation
+- Multi-dialect support
+
+**NLP Research**  
+*Transformer architectures*
+- Clinical text processing
+- Medical report generation
+
+</td>
+<td width="33%">
+
+### 🛡️ **Security & Blockchain**
+**Smart Contract Auditor**  
+*ML-powered security*
+- Automated vulnerability detection
+- Blockchain security analysis
+
+**MITRE ATT&CK Prediction**  
+*Behavioral modeling*
+- Threat prediction systems
+- Medical sector focus
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  
+## ⚡ Tech Arsenal
+
+</div>
+
+<details open>
+<summary><b>� Programming Languages</b></summary>
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🧠 AI/ML/DL Stack</b></summary>
+<br>
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🛠️ Development & Automation</b></summary>
+<br>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🔐 Blockchain & Security</b></summary>
+<br>
+
+<div align="center">
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>� Development Environment</b></summary>
+<br>
+
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00C4B4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+</details>
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arafat-mahmud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-mahmud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-mahmud&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafat-mahmud&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📈 Profile Visitors
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arafat-mahmud&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+## 🤝 Let's Collaborate & Connect!
+
 </div>
 
+<div align="center">
+
+### 💭 *"Building bridges between cutting-edge research and real-world impact"*
+
+I'm always excited to collaborate on **impactful research**, **cross-disciplinary projects**, and **innovation-focused software**. Whether you're working on AI healthcare solutions, security research, or building the next big thing – let's connect!
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🚀 **Open for Collaboration**
+- 🏥 **Healthcare AI & Medical Technology**
+- 🛡️ **Cybersecurity & Threat Analysis**
+- 🤖 **Machine Learning Research**
+- 🔗 **Blockchain & Smart Contract Security**
+- 🌍 **International Research Projects**
+
+</td>
+<td align="center" width="50%">
+
+### 📞 **Get in Touch**
+[![Email](https://img.shields.io/badge/📧-arafat.mahmud.2001@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arafat.mahmud.2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn_Profile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arafat2001)
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_Portfolio-2ea44f?style=flat-square)](https://arafat-mahmud.netlify.app)
+[![WhatsApp](https://img.shields.io/badge/💬-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801721170869)
+
+</td>
+</tr>
+</table>
+
 ---
 
-> 🚀 *“Free as a Cloud”*  
-Let’s build something amazing together!
+<div align="center">
+
+### 🌟 Profile Impact
+
+<img src="https://komarev.com/ghpvc/?username=arafat-mahmud&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/arafat-mahmud?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/arafat-mahmud?label=Total%20Stars&style=flat-square&color=58A6FF&logo=github" alt="Stars" />
+
+### � *"Free as a Cloud"* 
+**Let's build something amazing together!**
 
 ---
 
-## 💡 Open to Collaborate
-I’m open to collaborating on impactful research, cross-discipline projects, and innovation-focused software. Let’s connect if you're passionate about AI, automation, or secure intelligent systems.
+<sub>⭐ **Star my repositories if you find them useful!** ⭐</sub>
 
----
-
-## 📫 Let’s Connect!
-- 📧 arafat.mahmud.2001@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arafat2001) <!-- Add your LinkedIn if you’d like -->
+</div>
