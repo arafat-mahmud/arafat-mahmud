@@ -1,18 +1,8 @@
 <div align="center">
   
-# 👋 Welcome to Arafat Mahmud's U---
+# 👋 Welcome to Arafat Mahmud's Universe! 
 
-<div align="center">
-  
-## 🏆 Professional Excellence
-
-</div>! 
-
-<img src="https://readme-typin<details open>
-<summary><b>🚀 Programming Languages</b></summary>
-<br<details>
-<summary><b>🔧 Development Environment</b></summary>
-<br>.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%26+Software+Engineer;Machine+Learning+%26+Security+Expert;Lecturer+%26+Research+Supervisor;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%26+Software+Engineer;Machine+Learning+%26+Security+Expert;Lecturer+%26+Research+Supervisor;Building+the+Future+with+Code" alt="Typing SVG" />
 
 </div>
 
