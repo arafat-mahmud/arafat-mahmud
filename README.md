@@ -60,23 +60,7 @@
 </div>
 
 <details>
-<summary><b>🎓 Academic Leadership & Supervision</b></summary>
 
-### **Masters Supervision**
-- 🔬 **CVD Multimodal Diagnostic Model** (ECG, EHR, SNP)
-
-### **Undergraduate Research Groups** (4 Active Teams)
-| Research Area | Focus |
-|---------------|-------|
-| 🛡️ **Medical Cybersecurity** | MITRE ATT&CK-based Threat Detection |
-| 🫀 **Cardiovascular AI** | CVD Prediction using XAI |
-| 🧬 **Renal Health** | CKD Prediction with Explainable ML |
-| 🧠 **Genetic Diagnostics** | Heart & Lung Disease from SNP Data |
-
-### **Leadership Roles**
-- 🏆 **Coach** - UGV Programming Team (DUET IUPC)
-- 📚 **Member** - Course & Content Review Committee, UGV
-- 🔬 **Member** - Research Wing, University of Global Village
 
 </details>
 
@@ -251,9 +235,7 @@ I'm always excited to collaborate on **impactful research**, **cross-disciplinar
 
 ### 🚀 **Open for Collaboration**
 - 🏥 **Healthcare AI & Medical Technology**
-- 🛡️ **Cybersecurity & Threat Analysis**
 - 🤖 **Machine Learning Research**
-- 🔗 **Blockchain & Smart Contract Security**
 - 🌍 **International Research Projects**
 
 </td>
