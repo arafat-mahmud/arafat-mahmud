@@ -71,12 +71,6 @@
 
 ---
 
-<div align="center">
-  
-## � Professional Excellence
-
-</div>
-
 <details>
 
 
@@ -97,7 +91,7 @@
 ### 🍽️ **L & C Kitchen**
 **Student-Friendly Restaurant Platform**  
 *Django Web Application*
-- 🌐 **[Live Demo](https://arafat-mahmud.netlify.app/projects/project-lc-kitchen)**
+- 🌐 **[Project Details](https://arafat-mahmud.netlify.app/projects/project-lc-kitchen)**
 - Online ordering & table reservation
 - Digital menu with interactive features
 - User accounts & review system
