@@ -92,34 +92,40 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🧠 **AI in Healthcare**
-**Tumor Growth Prediction**  
-*Hybrid fuzzy-PBPK modeling*
-- Clinical oncology decision support
-- Advanced mathematical modeling
-- Real-world medical applications
-
-**Generative Medical Imaging**  
-*Visual Autoregressive (VAR) models*
-- Diagnostic-quality scan synthesis
-- Next-gen medical AI
+### 🍽️ **L & C Kitchen**
+**Student-Friendly Restaurant Platform**  
+*Django Web Application*
+- 🌐 **[Live Demo](https://arafat-mahmud.netlify.app/projects/project-lc-kitchen)**
+- Online ordering & table reservation
+- Digital menu with interactive features
+- User accounts & review system
+- **Tech:** Python, Django, PostgreSQL, Bootstrap
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🔊 **Speech Technology**
-**Bengali ASR & TTS**  
-*Accent-aware processing*
-- Barishal dialect specialization
-- Cultural AI preservation
-- Multi-dialect support
+### 💬 **Chatnook**
+**Real-time Chat Application**  
+*Flutter Mobile App*
+- 📱 **[Project Details](https://arafat-mahmud.netlify.app/projects/project-chatnook)**
+- Real-time messaging with Firebase
+- Group chats & media sharing
+- Cross-platform (Android & iOS)
+- **Tech:** Flutter, Dart, Firebase, Cloud Firestore
 
-**NLP Research**  
-*Transformer architectures*
-- Clinical text processing
-- Medical report generation
+</td>
+<td width="33%">
+
+### � **Attendance Management**
+**Smart Educational System**  
+*Flutter Mobile Application*
+- 📊 **[View Project](https://arafat-mahmud.netlify.app/projects/project-attendance)**
+- Digital attendance tracking
+- Role-based access control
+- Automated reports & analytics
+- **Tech:** Flutter, Firebase, PDF Generation
 
 </td>
 </tr>
