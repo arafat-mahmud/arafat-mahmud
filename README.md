@@ -2,7 +2,7 @@
   
 # 👋 Welcome to Arafat Mahmud's Universe! 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%26+Software+Engineer;Machine+Learning+%26+Security+Expert;Lecturer+%26+Research+Supervisor;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%26+Software+Engineer;Machine+Learning+Expert;Building+the+Future+with+Code" alt="Typing SVG" />
 
 </div>
 
@@ -55,6 +55,30 @@
 
 <div align="center">
   
+## 🏆 Professional Excellence
+
+</div>
+
+<details>
+<summary><b>🔬 Current Research Focus</b></summary>
+<br>
+
+### 🩺 **Medical AI & Clinical Research**
+- **Biopsy Analysis & Clustering** - Advanced pattern recognition in medical imaging
+- **Fuzzy C-Means Clustering** - Developing intelligent clustering algorithms for medical data
+- **Clinical Decision Support Systems** - AI-powered diagnostic assistance
+
+### 📊 **Research Publications & Impact**
+- Peer reviewer for **Elsevier Journals**
+- Active researcher in **Medical AI** and **Clinical XAI**
+- Contributing to next-generation **diagnostic technologies**
+
+</details>
+
+---
+
+<div align="center">
+  
 ## � Professional Excellence
 
 </div>
@@ -74,7 +98,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🧠 **AI in Healthcare**
 **Tumor Growth Prediction**  
@@ -89,7 +113,7 @@
 - Next-gen medical AI
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 🔊 **Speech Technology**
 **Bengali ASR & TTS**  
@@ -102,20 +126,6 @@
 *Transformer architectures*
 - Clinical text processing
 - Medical report generation
-
-</td>
-<td width="33%">
-
-### 🛡️ **Security & Blockchain**
-**Smart Contract Auditor**  
-*ML-powered security*
-- Automated vulnerability detection
-- Blockchain security analysis
-
-**MITRE ATT&CK Prediction**  
-*Behavioral modeling*
-- Threat prediction systems
-- Medical sector focus
 
 </td>
 </tr>
@@ -225,7 +235,7 @@
 
 ### 💭 *"Building bridges between cutting-edge research and real-world impact"*
 
-I'm always excited to collaborate on **impactful research**, **cross-disciplinary projects**, and **innovation-focused software**. Whether you're working on AI healthcare solutions, security research, or building the next big thing – let's connect!
+I'm always excited to collaborate on **impactful research**, **cross-disciplinary projects**, and **innovation-focused software**. Whether you're working on AI healthcare solutions or building the next big thing – let's connect!
 
 </div>
 
