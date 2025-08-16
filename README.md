@@ -53,12 +53,6 @@
 
 ---
 
-<div align="center">
-  
-## 🏆 Professional Excellence
-
-</div>
-
 <details>
 <summary><b>🔬 Current Research Focus</b></summary>
 <br>
