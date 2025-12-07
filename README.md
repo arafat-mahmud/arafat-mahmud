@@ -202,7 +202,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arafat-mahmud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
@@ -217,7 +217,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafat-mahmud&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
----
+--- -->
 
 <div align="center">
   
